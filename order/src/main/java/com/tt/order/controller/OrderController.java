@@ -28,8 +28,4 @@ public class OrderController {
         String msg = restTemplate.getForObject("http://localhost:8088/stock/reduct", String.class);
         return msg;
     }
-
-    public static void main(String[] args) {
-        System.out.println();
-    }
 }
