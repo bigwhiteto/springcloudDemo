@@ -1,0 +1,5 @@
+# Project exclude paths
+/order/target/
+/order-nacos/target/
+/stock/target/
+/stock-nacos/target/
